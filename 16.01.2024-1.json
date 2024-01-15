@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Wilcox",
+    "age": 16,
+    "address": {
+        "street": "Elizabeth Cove",
+        "city": "Jacobshaven",
+        "state": "Ohio",
+        "zip": "37173"
+    },
+    "contact": {
+        "phone": "641.394.8375",
+        "servicePhone": "800130524"
+    },
+    "birthday": "2009-27-02",
+    "ip": "37.103.173.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball specific lawyer much else however land. Notice short change letter born. Yard each forward despite close bad.",
+        "bio": "Kind high rich there sound race. All who use lawyer.\nSeat person authority expert. Prepare agency at consider. Director remain camera piece should."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
