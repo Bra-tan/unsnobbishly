@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Day",
+    "age": 12,
+    "address": {
+        "street": "Bond Islands",
+        "city": "East Charlesside",
+        "state": "Michigan",
+        "zip": "92797"
+    },
+    "contact": {
+        "phone": "6165720633",
+        "servicePhone": "800742303"
+    },
+    "birthday": "2013-23-09",
+    "ip": "181.211.167.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally discuss medical despite. Natural term population other. Beyond few technology employee.",
+        "bio": "Purpose difficult say national. Land improve again become. Town change laugh simply road begin.\nFall choice play not go soldier. Identify check what ten material stuff."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
