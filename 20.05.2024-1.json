@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Adams",
+    "age": 55,
+    "address": {
+        "street": "Crane Pass",
+        "city": "Ricardoville",
+        "state": "Georgia",
+        "zip": "36109"
+    },
+    "contact": {
+        "phone": "001-254-952-9546x077",
+        "servicePhone": "800202628"
+    },
+    "birthday": "1970-08-01",
+    "ip": "143.40.24.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge themselves news measure partner. See night crime continue require leg. Role level write wonder each.\nSubject mouth deal time arm perform dream. Spend statement themselves threat go guess.",
+        "bio": "Recognize public will. Former glass win rock.\nAlso lawyer available just in discover series. Wait big age enough rule term north. Significant physical change skill learn.\nYes team fund."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
