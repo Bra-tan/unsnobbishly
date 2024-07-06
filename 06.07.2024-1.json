@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Danielle Crawford DVM",
+    "age": 69,
+    "address": {
+        "street": "Spencer Harbors",
+        "city": "New Savannah",
+        "state": "Vermont",
+        "zip": "07602"
+    },
+    "contact": {
+        "phone": "(458)754-0612",
+        "servicePhone": "800729057"
+    },
+    "birthday": "1956-30-12",
+    "ip": "110.130.62.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred budget military care better baby law. Mr north brother water night alone. Realize manage seek ground fish add.",
+        "bio": "Question strong story. Movement fast tree themselves. Serve lose catch quickly own return.\nHit thus necessary. Special although so these training. Mr need left while with choose."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
