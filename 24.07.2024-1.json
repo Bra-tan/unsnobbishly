@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Brown",
+    "age": 39,
+    "address": {
+        "street": "Lydia Pass",
+        "city": "East Davidville",
+        "state": "Nebraska",
+        "zip": "98986"
+    },
+    "contact": {
+        "phone": "(480)719-8516x965",
+        "servicePhone": "800040753"
+    },
+    "birthday": "1986-31-10",
+    "ip": "33.233.248.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Home team some. Far true local. Past voice thank manager.\nBoth last speech protect foot around boy dark. Decision road media lot morning southern. Seven notice dark interest defense time staff yet.",
+        "bio": "Ball dinner carry bill coach. Player memory those teacher oil."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
