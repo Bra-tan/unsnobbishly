@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Martin",
+    "age": 24,
+    "address": {
+        "street": "Crystal Islands",
+        "city": "Lindaview",
+        "state": "Arizona",
+        "zip": "05092"
+    },
+    "contact": {
+        "phone": "582-984-6079x97207",
+        "servicePhone": "800697717"
+    },
+    "birthday": "2001-27-02",
+    "ip": "186.203.48.167",
+    "foo": "bar",
+    "profile": {
+        "about": "State down require group. Personal left some say ago money building coach. Laugh lawyer kitchen event half president.\nDemocrat politics value right floor letter. Project oil central artist thank.",
+        "bio": "Season adult career enough. Gas at measure.\nBlue hundred view sister. Kind consider meeting range boy reveal big.\nFill get day have. Yet eye remember million success."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
