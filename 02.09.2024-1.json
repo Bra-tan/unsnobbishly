@@ -1,0 +1,25 @@
+{
+    "name": "Sierra Martin",
+    "age": 80,
+    "address": {
+        "street": "Christine Via",
+        "city": "West Camerontown",
+        "state": "Vermont",
+        "zip": "57871"
+    },
+    "contact": {
+        "phone": "397.811.2692",
+        "servicePhone": "800970252"
+    },
+    "birthday": "1945-14-12",
+    "ip": "134.73.17.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Join produce reason personal. He least call well daughter doctor born bag.",
+        "bio": "Free budget role ahead risk once reflect. Discuss concern present summer score article whole.\nAlways conference from artist."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
