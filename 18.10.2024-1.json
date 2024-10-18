@@ -1,0 +1,25 @@
+{
+    "name": "Amy Williamson",
+    "age": 74,
+    "address": {
+        "street": "Sharon Village",
+        "city": "New Brandontown",
+        "state": "Michigan",
+        "zip": "56461"
+    },
+    "contact": {
+        "phone": "+1-267-839-5983x138",
+        "servicePhone": "800045730"
+    },
+    "birthday": "1951-30-08",
+    "ip": "175.127.1.26",
+    "foo": "bar",
+    "profile": {
+        "about": "This purpose then still force want much sing. Identify front level personal board similar. Air stock large season town evidence.",
+        "bio": "Step all of everyone. Senior understand maybe day month. Over player certain piece herself.\nPrice threat fine least those structure. Fall adult small rather."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
