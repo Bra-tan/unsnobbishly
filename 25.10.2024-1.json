@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Baker",
+    "age": 19,
+    "address": {
+        "street": "Mckay Walks",
+        "city": "East Glenn",
+        "state": "Idaho",
+        "zip": "43336"
+    },
+    "contact": {
+        "phone": "572-549-8264x2581",
+        "servicePhone": "800025102"
+    },
+    "birthday": "2006-27-07",
+    "ip": "111.123.254.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Few officer cultural several. Spring wonder voice instead hold baby.\nSort another guy product soldier attention. Appear then development prepare better week tonight summer. Develop item fact.",
+        "bio": "Instead four road yard health. Because exactly election.\nTable entire color nearly meet performance. Cold watch office political brother fill. Himself citizen skin thank need against face."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
