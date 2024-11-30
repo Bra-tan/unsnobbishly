@@ -1,0 +1,25 @@
+{
+    "name": "Sara Franklin",
+    "age": 112,
+    "address": {
+        "street": "David Village",
+        "city": "South Adam",
+        "state": "Oregon",
+        "zip": "43951"
+    },
+    "contact": {
+        "phone": "(472)689-1767",
+        "servicePhone": "800503513"
+    },
+    "birthday": "1913-19-10",
+    "ip": "113.173.55.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason clearly dark act travel machine wife. School defense four value.",
+        "bio": "Result issue read goal. Open trade sure move nature.\nCapital style successful sense black get. Front yes you system foreign throw."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
