@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Rubio",
+    "age": 49,
+    "address": {
+        "street": "White Fields",
+        "city": "East Patricia",
+        "state": "Georgia",
+        "zip": "68698"
+    },
+    "contact": {
+        "phone": "673.310.0423x9579",
+        "servicePhone": "800004228"
+    },
+    "birthday": "1976-14-10",
+    "ip": "119.148.72.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue power society avoid bank. Account surface person within store lawyer father.\nTelevision along nice account. Area modern star. Total economic Republican contain determine through.",
+        "bio": "Various first ok near. No morning collection along memory. Response whom performance positive natural price senior.\nRecord save street top. Pattern west tough leave rest."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
