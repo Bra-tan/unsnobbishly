@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Henry",
+    "age": 11,
+    "address": {
+        "street": "Jessica Lodge",
+        "city": "Stevensonstad",
+        "state": "Idaho",
+        "zip": "82768"
+    },
+    "contact": {
+        "phone": "640.794.7895x1230",
+        "servicePhone": "800775918"
+    },
+    "birthday": "2014-18-03",
+    "ip": "15.90.53.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade but crime travel wear three blood really. Effort nor walk attention president role. Agree kind store simple everybody me test.",
+        "bio": "Though good than front. Line cut can can miss.\nChance Democrat thing. Receive decade century. Thus many form news."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
