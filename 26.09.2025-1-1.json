@@ -1,0 +1,25 @@
+{
+    "name": "Caleb Gonzales",
+    "age": 42,
+    "address": {
+        "street": "Pearson Vista",
+        "city": "South Veronica",
+        "state": "Montana",
+        "zip": "40515"
+    },
+    "contact": {
+        "phone": "802.310.2021x4072",
+        "servicePhone": "800562612"
+    },
+    "birthday": "1983-16-03",
+    "ip": "141.35.160.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority condition audience agree suddenly smile herself suffer. Early administration from nearly think management short.\nThought police image sure all ready. Teach to yes drug gun music real able.",
+        "bio": "Start win sense worry participant here level. Old cause style another use light four late.\nSay increase seat seek nor do. Trouble fact yes network spring stock car. Doctor campaign wait thank."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

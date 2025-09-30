@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Cook",
+    "age": 37,
+    "address": {
+        "street": "Howell Extension",
+        "city": "South Robert",
+        "state": "Texas",
+        "zip": "97755"
+    },
+    "contact": {
+        "phone": "841-423-9626x614",
+        "servicePhone": "800626043"
+    },
+    "birthday": "1988-16-06",
+    "ip": "113.54.110.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes behavior building head maybe. Store country fight else better interview.",
+        "bio": "Arrive write carry join. Stuff source protect message friend run. Smile full major gas nice.\nOutside approach yet station. Example these particularly. Common reflect quality prove western."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
