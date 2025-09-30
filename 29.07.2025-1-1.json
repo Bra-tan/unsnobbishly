@@ -1,0 +1,25 @@
+{
+    "name": "Charlotte Hall",
+    "age": 29,
+    "address": {
+        "street": "Anderson Highway",
+        "city": "East Cynthia",
+        "state": "North Carolina",
+        "zip": "47739"
+    },
+    "contact": {
+        "phone": "001-447-745-2074x6917",
+        "servicePhone": "800331352"
+    },
+    "birthday": "1996-05-07",
+    "ip": "18.116.130.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine in born. Citizen probably piece consumer provide base. Let north family heart.\nToward eat civil per describe first watch. Mention conference word task begin.",
+        "bio": "Budget society purpose view mouth. Western environmental owner allow travel outside yes. Hit near sign option. Television suddenly federal."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
