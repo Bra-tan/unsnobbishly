@@ -1,0 +1,25 @@
+{
+    "name": "John King",
+    "age": 103,
+    "address": {
+        "street": "Jones Square",
+        "city": "Taylortown",
+        "state": "Connecticut",
+        "zip": "77210"
+    },
+    "contact": {
+        "phone": "+1-484-965-5523x2295",
+        "servicePhone": "800855206"
+    },
+    "birthday": "1922-11-04",
+    "ip": "185.216.64.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Find son let two its. Teach ball democratic response house business.\nPractice tonight fact respond evening anyone some. Magazine once teach cause.",
+        "bio": "Budget and lay later add people.\nDecide nor understand easy somebody. Wear these kind water Mrs perhaps. Throughout represent arm."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
