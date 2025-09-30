@@ -1,0 +1,25 @@
+{
+    "name": "Jillian Abbott",
+    "age": 85,
+    "address": {
+        "street": "Linda Inlet",
+        "city": "Gordonchester",
+        "state": "Hawaii",
+        "zip": "67615"
+    },
+    "contact": {
+        "phone": "+1-768-905-7039x63227",
+        "servicePhone": "800016509"
+    },
+    "birthday": "1940-19-01",
+    "ip": "177.49.152.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge argue writer kitchen should arm. Job new enjoy.\nDemocratic apply must detail big after. Democrat study speak attack any almost management.",
+        "bio": "Attack throughout song administration guess house hope. Describe listen center measure soon of. Thousand raise religious now executive identify."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
