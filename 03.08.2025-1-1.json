@@ -1,0 +1,25 @@
+{
+    "name": "Craig Hawkins",
+    "age": 1,
+    "address": {
+        "street": "Woods Meadow",
+        "city": "Edwardsville",
+        "state": "Maine",
+        "zip": "37407"
+    },
+    "contact": {
+        "phone": "561-843-5671x331",
+        "servicePhone": "800424369"
+    },
+    "birthday": "2024-04-06",
+    "ip": "194.235.79.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Election parent member find figure. Late each security city son successful officer.\nGarden various new draw their. Law beautiful sing material. Space tax clear.",
+        "bio": "Partner same week everybody network personal. Probably want myself kitchen fall nice.\nThroughout fight play. About cut west seven. While necessary clear camera civil pattern."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

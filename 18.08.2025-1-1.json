@@ -1,0 +1,25 @@
+{
+    "name": "Ebony Yang",
+    "age": 51,
+    "address": {
+        "street": "Jeffrey Meadow",
+        "city": "Parkertown",
+        "state": "Arizona",
+        "zip": "33584"
+    },
+    "contact": {
+        "phone": "746.283.2067x292",
+        "servicePhone": "800636389"
+    },
+    "birthday": "1974-23-03",
+    "ip": "159.9.39.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen her miss. Maintain discuss line view could deal new imagine. Catch myself name amount almost call goal.\nFight report edge hospital chance at. Sister first good none run.",
+        "bio": "Letter sit in employee risk arm unit. Group win talk measure. Pay region fire music least court picture.\nImage think today memory. As would policy prevent small just."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

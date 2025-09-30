@@ -1,0 +1,25 @@
+{
+    "name": "Diana Jones",
+    "age": 98,
+    "address": {
+        "street": "Patricia Land",
+        "city": "North Danielville",
+        "state": "Connecticut",
+        "zip": "69769"
+    },
+    "contact": {
+        "phone": "001-626-592-6698x189",
+        "servicePhone": "800202378"
+    },
+    "birthday": "1927-07-10",
+    "ip": "106.171.5.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise skill former single lay move kid. According game dog bit. Assume view away reflect group positive. Party government evidence consumer city soldier.",
+        "bio": "Computer anyone represent information whole several. Believe least face my both hundred."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
