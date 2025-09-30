@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Wiley",
+    "age": 74,
+    "address": {
+        "street": "Johnson Track",
+        "city": "South Maria",
+        "state": "Mississippi",
+        "zip": "64152"
+    },
+    "contact": {
+        "phone": "264-294-5673",
+        "servicePhone": "800870915"
+    },
+    "birthday": "1951-26-05",
+    "ip": "189.209.105.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Get take bank else. Focus next public recent realize allow similar city. Sense compare watch.\nPoor miss these must stay. Work fight field set.\nDevelopment Democrat toward outside. Sing yard history.",
+        "bio": "Stay serve trade knowledge company task. American question series break.\nEat carry large over.\nMind compare reach energy. Hair center can drug. Whole song food area huge nation address life."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
