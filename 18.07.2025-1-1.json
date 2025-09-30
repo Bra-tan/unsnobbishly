@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Pugh",
+    "age": 74,
+    "address": {
+        "street": "Kiara Grove",
+        "city": "Austinside",
+        "state": "Ohio",
+        "zip": "64946"
+    },
+    "contact": {
+        "phone": "7005758925",
+        "servicePhone": "800751264"
+    },
+    "birthday": "1951-11-03",
+    "ip": "81.200.251.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital buy new southern feeling make exist. Still item receive include Mrs. Show begin book education experience. Lot state human low ask sound per.",
+        "bio": "Administration their everything team cell watch eat. Store maybe success family check number.\nYes measure speech hold college. Collection second weight painting political. Not standard big over."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
